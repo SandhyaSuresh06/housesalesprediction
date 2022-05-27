@@ -1,11 +1,11 @@
 # housesalesprediction
 
-Information on using this cookiecutter
+Information on using this project
 
 Development workflows
 =======================
 
-Create new project
+Create new project using cookiecutter
 ----------------------
 
 You've already done this if you are reading this file. You ran:
@@ -59,9 +59,15 @@ Here's the folder structure that gets created by `cookiecutter-datascience-simpl
 Documentation
 --------------
 
-In this very simple project structure template, we've just included a markdown file with some typical
-section headings to use for project notes. Expand as desired. Later in the semester we will learn how to
-use Sphinx with restructuredText to write and generate documentation.
+This project contains the following files
+
+* aap_hw1_s22_sklearn_Suresh.ipynb is the jupyter notebook containing EDA, model building and evaluation of the housing data
+* sweetviz_report.html contains the automated EDA results
+* hw1_sklearn_dataprep.ipynb contains the data prep information
+* The data files are present in the data folder
+* aap_hw1_s22_sklearn.ipynb is the skeleton jupyter notebook
+
+
 
 
 
